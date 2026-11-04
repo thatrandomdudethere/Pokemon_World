@@ -1,0 +1,11 @@
+engine/
+src/
+include/
+phone-backup/
+test-results/
+.tools/
+*.sav
+*.ss0
+*.elf
+.env
+.env.*
