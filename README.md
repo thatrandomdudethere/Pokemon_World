@@ -4,7 +4,7 @@ A GBA fan game by Srikar. Explore **Hoenn, Kanto, Johto and Sinnoh** in one adve
 
 ## Download & play
 
-[Visit the game website](https://fanzinewordsmith2.github.io/Pokemon_World/) or [download v1.0](docs/downloads/Pokemon-World-v1.0.gba).
+[Visit the game website](https://thatrandomdudethere.github.io/Pokemon_World/) or [download v1.0](docs/downloads/Pokemon-World-v1.0.gba).
 
 Open the game in a GBA emulator such as mGBA or DotPlay. If updating, back up your save, keep the existing game filename, restart your emulator and choose **Continue** on the Pokémon title screen. Avoid quick states made with an older build.
 
@@ -23,7 +23,7 @@ Open the game in a GBA emulator such as mGBA or DotPlay. If updating, back up yo
 
 This repository distributes the website, screenshots and finished game download. The editable game source is private and is not included. Visitors cannot change this repository without the owner granting permission. Downloaded copies can be copied or modified independently.
 
-Report problems through [Issues](https://github.com/fanzinewordsmith2/Pokemon_World/issues/new?template=bug_report.md).
+Report problems through [Issues](https://github.com/thatrandomdudethere/Pokemon_World/issues/new?template=bug_report.md).
 
 ## Credits
 
